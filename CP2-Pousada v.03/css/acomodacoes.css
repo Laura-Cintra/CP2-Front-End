@@ -1,0 +1,10 @@
+main{
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+}
+
+section{
+    margin: 30px 2em;
+    max-width: 30%;
+}
